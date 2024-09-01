@@ -1,3 +1,5 @@
+## 🌐 [English Version of README](README_EN.md)
+
 # API de Gerenciamento de Usuários
 
 Este projeto é uma API para gerenciamento de usuários desenvolvida com Express.js e SQLite. Ele permite criar, ler, atualizar e excluir usuários em um banco de dados SQLite.
